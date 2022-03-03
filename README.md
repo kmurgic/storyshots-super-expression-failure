@@ -5,7 +5,7 @@ Filing an issue with storybook. Storyshot tests are failing with an ambiguous er
 1. Clone the repository: `git clone https://github.com/kmurgic/storyshots-super-expression-failure.git`
 1. Install dependencies`npm i`
 1. Run storybook and see that it is working as expected `npm run storybook`
-1. Run storyshot tests `npm test`-
+1. Run storyshot tests `npm test`
 
 ### Expected
 The tests run without issue 🥳
