@@ -1,5 +1,5 @@
 # storyshots-super-expression-failure
-Filing an issue with storybook. Storyshot tests are not running.
+Filing an issue with storybook. Storyshot tests are failing with an ambiguous error message.
 
 ## Steps to reproduce
 1. Clone the repository: `git clone https://github.com/kmurgic/storyshots-super-expression-failure.git`
