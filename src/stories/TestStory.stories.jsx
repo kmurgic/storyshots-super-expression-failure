@@ -1,5 +1,5 @@
 const TestStoryMeta = {
-    title: 'Layout/TestStory',
+    title: 'TestStory',
 }
 export default TestStoryMeta
 
